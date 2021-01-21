@@ -14,7 +14,7 @@
         "knex": "^0.19.0",
         "lodash": "^4.17.15",
         "mysql2": "^1.6.5",
-        "next": "^9.0.2",
+        "next": "^9.3.2",
         "next-cookies": "^1.1.2",
         "nprogress": "^0.2.0",
         "objection": "^1.6.9",
